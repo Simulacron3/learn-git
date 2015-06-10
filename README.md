@@ -1,4 +1,4 @@
 learn-git
 =========
 
-for learning
+I'm Joe and this repo is for learning git and GitHub.
